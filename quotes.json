@@ -1,0 +1,128 @@
+{ 
+  quotes: [
+        {
+          text: "You only lose what you cling to.",
+          author: "Gautama Buddha"
+        },
+        {
+          text: "Life is not a problem to be solved, but a reality to be experienced.",
+          author: "Soren Kierkegaard"
+        },
+        {
+          text: "Life shrinks or expands in proportion to one's courage.",
+          author: "Anais Nin"
+        },
+        {
+          text: "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+          author: "Rumi"
+        },
+        {
+          text: "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+          author: "C.G. Jung"
+        },
+        {
+          text: "We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.",
+          author: "Hermann Hesse"
+        },
+        {
+          text: "Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.",
+          author: "Howard Thurman"
+        },
+        {
+          text: "I’m not interested in being a ‘lover.’ I’m interested in only being love.",
+          author: "Ram Dass"
+        },
+        {
+          text: "The ability to observe without evaluating is the highest form of intelligence.",
+          author: "Jiddu Krishnamurti"
+        },
+        {
+          text: "I am an old man and I have known a great many troubles, but most of them never happened",
+          author: "Mark Twain"
+        },
+        {
+          text: "It does not matter what you bear, but how you bear it.",
+          author: "Seneca"
+        },
+        {
+          text: "We are more often frightened than hurt; and we suffer more from imagination than from reality.",
+          author: "Seneca"
+        },
+        {
+          text: "A gem cannot be polished without friction, nor a man perfected without trials.",
+          author: "Seneca"
+        },
+        {
+          text: "One day, in retrospect, the years of struggle will strike you as the most beautiful.",
+          author: "Sigmund Freud"
+        },
+        {
+          text: "Think lightly of yourself and deeply of the world.",
+          author: "Miyamoto Musashi"
+        },
+        {
+          text: "Trying to define yourself is like trying to bite your own teeth.",
+          author: "Alan Watts"
+        },
+        {
+          text: "Comparison is the death of joy.",
+          author: "Mark Twain"
+        },
+        {
+          text: "The world is full of magic things, patiently waiting for our senses to grow sharper.",
+          author: "W.B. Yeats"
+        },
+        {
+          text: "Humor is what happens when we're told the truth quicker and more directly than we're used to.",
+          author: "George Saunders"
+        },
+        {
+          text: "The struggle ends when the gratitude begins.",
+          author: "Neale Donald Walsch"
+        },
+        {
+          text: "To avoid criticism, do nothing, say nothing, be nothing.",
+          author: "Elbert Hubbard"
+        },
+        {
+          text: "It is the mark of an educated mind to be able to entertain a thought without accepting it",
+          author: "Aristotle"
+        },
+        {
+          text: "The less confident you are, the more serious you have to act.",
+          author: "Tara Ploughman"
+        },
+        {
+          text: "Short words are best and the old words when short are best of all.",
+          author: "Winston Churchill"
+        },
+        {
+          text: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+          author: "Winston Churchill"
+        },
+        {
+          text: "The most terrifying thing is to accept oneself completely.",
+          author: "C.G. Jung"
+        },
+        {
+          text: "Everything that irritates us about others can lead us to an understanding of ourselves.",
+          author: "C.G. Jung"
+        },
+        {
+          text: "The first principle is that you must not fool yourself and you are the easiest person to fool.",
+          author: "Richard P. Feynman"
+        },
+        {
+          text: "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.",
+          author: "Bertrand Russell"
+        },
+        {
+          text: "Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself.",
+          author: "Honoré de Balzac"
+        },
+        {
+          text: "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+          author: "Albert Camus"
+        }
+      ]
+}
